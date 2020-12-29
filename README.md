@@ -2,6 +2,13 @@
  
 Very simple RP Chat commands script
 
+# Installation
+
+- 1. Download the resource by clicking code then *Download Zip*
+- 2. Open the VLChatCommands.ZIP Folder
+- 3. Drag the folder out of the zip and put it in your resources folder
+- 4. Finally add *start VLChatCommands* to your server.cfg and restart your server
+
 # Commands
 - /me
 - /ooc
